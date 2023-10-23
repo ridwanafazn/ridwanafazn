@@ -18,12 +18,13 @@
 
 <br>
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,git,github,vscode" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,linux,bash" /><br>
 </div>
 
+<br/>
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwannadev&" alt="ridwannadev" /></p>
