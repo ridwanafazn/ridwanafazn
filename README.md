@@ -1,14 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ridwanskie+!;" />
 </h1>
-<h3 align="center">📑 Javascript Backend and Dev-Ops Learner 👨‍💻</h3>
+<h3 align="center">📑 Fullstack Web Developer Learner 👨‍💻</h3>
 <br>
 
 - 🌱 I’m currently learning **react, express, and android with kotlin**
 
 - 📫 How to reach me **ridwanafzn@gmail.com**
-
-- ⚡ Fun fact **I'm good in MOBA games😎🎮**
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
