@@ -4,7 +4,7 @@
 <h3 align="center">📑 Backend Development Learner </h3>
 <br>
 
-- 🌱 I’m currently learning **react, express, and android with kotlin**
+- 🌱 I’m currently learning **nextjs, expressjs, monogodb atlas, android with kotlin, and google cloud platform**
 
 - 📫 Reach me via **ridwanafzn@gmail.com**
 
@@ -18,8 +18,9 @@
 <h2 align="center">⚙️ Stack ⚙️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,git,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,linux,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,kubernetes,linux,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,aws,gcp" /><br>
 </div>
 
 <br/>
