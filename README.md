@@ -4,7 +4,7 @@
 <h3 align="center">📑 Backend Development Learner </h3>
 <br>
 
-- 🌱 I’m currently learning **nextjs, expressjs, monogodb atlas, android with kotlin, and google cloud platform**
+- 🌱 I’m currently learning **nextjs, expressjs, mongodb, android with kotlin, and google cloud platform**
 
 - 📫 Reach me via **ridwanafzn@gmail.com**
 
