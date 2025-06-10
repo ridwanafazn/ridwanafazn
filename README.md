@@ -1,10 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ridwanskie+!;" />
 </h1>
-<h3 align="center">📑 Backend Development Learner </h3>
+<h3 align="center">📑 Back-end and Cloud Engineer</h3>
 <br>
 
-- 🌱 I’m currently learning **nextjs, expressjs, mongodb, android with kotlin, and google cloud platform**
+- 🌱 I’m currently learning **nextjs, react.js+vite, streamlit, expressjs, spring-boot, gin, mongodb, mysql, psql, android with kotlin and flutter, and google cloud platform**
 
 - 📫 Reach me via **ridwanafzn@gmail.com**
 
