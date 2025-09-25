@@ -4,7 +4,7 @@
 <h3 align="center">📑 Back-end and Cloud Engineer</h3>
 <br>
 
-- 🌱 I’m currently learning **nextjs, react.js+vite, streamlit, expressjs, spring-boot, gin, mongodb, mysql, psql, android with kotlin and flutter, and google cloud platform**
+- 🌱 I’m currently learn, mastering and focus in **expressjs, spring-boot, fast-api, gin, actix and laravel as backend framework and mongodb, mysql, psql, and google cloud platform, with implement api with http, websocket, mqtt**
 
 - 📫 Reach me via **ridwanafzn@gmail.com**
 
